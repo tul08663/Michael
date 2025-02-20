@@ -98,7 +98,7 @@ img {
     margin: 0 auto;
     border-radius: 25px;
     
-    width: 30%;
+    width: 40%;
     height: 100px;
 }
 
@@ -109,7 +109,7 @@ img {
     border-radius: 25px;
     text-align: center;
     font-size: 200%;
-    width: 40%;
+    width: 30%;
     margin: 0 1% 0 1%;
 
 }
@@ -120,4 +120,8 @@ img {
 .item_a{
     position: relative;
     top: 25%; 
+}
+
+.Feet{
+    margin-top: 1%;
 }
