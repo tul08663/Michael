@@ -1,0 +1,92 @@
+﻿.title{
+    text-align:center;
+    position: relative;
+
+}
+body {
+    background-color:#36393E;
+    color:white;
+}
+.Navigation{
+    background-color: #4a4c51;
+    text-align:center;
+    font-size:200%;
+    
+}
+.Navigation a{
+    margin-left:55px;
+    margin-right:55px;
+}
+footer{
+    text-align:center;
+}
+.Portfolio{
+    display:block;
+    margin: auto;
+    width: 50%;
+}
+
+.Welcome{
+    font-size:125%;
+    text-align:center;
+}
+
+a:hover{
+    background-color:chocolate;
+
+}
+
+a:link{
+    color:lightblue;
+}
+
+a:visited{
+    color:lightcoral;
+}
+h2{
+    text-decoration:underline;
+    font-weight:bold;
+}
+#Lab1{
+    position:relative;
+    left: 300px;
+    width: 1000px;
+}
+#Lab1 p {
+        font-size: 125%;
+        width: 1000px;
+    }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.About_Me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.School {
+    font-size: 100%;
+    text-align: center;
+    float:left;
+    width:50%;
+}
+.Temple{
+     width: 30%;
+     height:500px;
+     float:left;
+     padding-left:125px;
+     padding-right:100px;
+ }
+.Me_Text {
+    font-size: 100%;
+    text-align: center;
+    float:left;
+    width:48%;
+}
+.Clear{
+    clear:both;
+}
