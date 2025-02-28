@@ -90,8 +90,7 @@ img {
 .Clear{
     clear:both;
 }
-.info{
-}
+
 
 #items{
     display: table;
@@ -125,3 +124,30 @@ img {
 .Feet{
     margin-top: 1%;
 }
+
+@media only screen and (max-width: 600px) {
+    .Portfolio{
+        display:block;
+        margin: auto;
+        margin-top: 5%;
+        width: 100%;
+    }
+    #items{
+        display: table;
+        margin: 0 auto;
+        border-radius: 25px;
+        
+        height: 100px;
+    }
+    .item{
+        display: block;
+        margin: 0 auto;
+        background-color:#2c2c2c;
+        border-radius: 25px;
+        text-align: center;
+        font-size: 200%;
+        width: 100%;
+        margin: 1% 0 1% 0;
+    
+    }
+  }
